@@ -1,0 +1,31 @@
+{
+  "name": "Sky Gahshomar",
+  "short_name": "Sky Gahshomar",
+  "description": "The Zoroastrian calendars (Shahanshahi, Kadmi, Fasli, Bastani) from NASA JPL astronomy: roj and mah, the Gahs, festivals and the Moon.",
+  "lang": "en",
+  "dir": "ltr",
+  "start_url": "./?source=homescreen",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0e1420",
+  "theme_color": "#0e1420",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
